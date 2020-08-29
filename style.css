@@ -1,0 +1,26 @@
+img {
+  height: 100px;
+}
+
+#name{
+    color : blue;
+}
+
+#result{
+    color : green;
+    font-size : 20px;
+}
+
+body{
+    height : 200px;
+    width : 200px;
+    margin : 0;
+}
+
+div{
+    background-color : #ff5;
+}
+
+span{
+    font-weight : bold;
+}
